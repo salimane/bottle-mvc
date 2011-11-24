@@ -5,7 +5,6 @@ app = Bottle()
 COOKIE_SECRET = 'random'
 TEMPLATE_PATH.append("./project/views/")
 TEMPLATE_PATH.remove("./views/")
-import project.models
-import project.controllers
+from project.controllers import *
 
 
