@@ -8,7 +8,9 @@
     <a style="text-align:center" href="http://about.me/salimane">About</a>
     <div class="page">
       <h1>Bottle MVC</h1>
-      <div class="flash">{{ message }}</div>
+      % if message is not '':
+        <div class="flash">{{ message }}</div>
+      %end
       %include
     </div>
   </body>

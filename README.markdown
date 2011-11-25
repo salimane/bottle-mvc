@@ -1,4 +1,4 @@
-A simple application structured following the MVC pattern using Bottle micro python framework.
+A simple boilerplate application structured following the MVC pattern using Bottle micro python framework.
 It basically here to be my base skeleton for new python web applications
 
 Demo : http://young-rain-5500.herokuapp.com
