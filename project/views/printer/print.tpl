@@ -1,4 +1,3 @@
-Test application
 <form action="/print" method="post">
   <dl>
     <dd>Text: <input type="input" name="text"/></dd>

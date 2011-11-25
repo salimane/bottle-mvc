@@ -7,7 +7,7 @@
     <a style="text-align:center" href="/">Home</a>
     <a style="text-align:center" href="http://about.me/salimane">About</a>
     <div class="page">
-      <h1>Bottle MVC</h1>
+      <h1>Bottle MVC Boilerplate</h1>
       % if message is not '':
         <div class="flash">{{ message }}</div>
       %end

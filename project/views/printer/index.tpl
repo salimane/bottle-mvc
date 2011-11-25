@@ -1,5 +1,4 @@
 <ul>
-  Bottle MVC
   <p>
     <a href="/print">Click here to print!</a>
   </p>
