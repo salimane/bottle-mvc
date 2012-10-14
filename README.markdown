@@ -5,10 +5,10 @@ Demo : http://young-rain-5500.herokuapp.com
 
 Dependencies :
 
-    sudo easy_install -U bottle
+    git clone git://github.com/salimane/bottle-mvc.git
+    cd bottle-mvc
+    pip install -r requirements.txt
 
 To run:
 
-    git clone git://github.com/salimane/bottle-mvc.git
-    cd bottle-mvc
     python runserver.py
